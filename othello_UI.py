@@ -1,4 +1,4 @@
-#Mahamadou Sylla 61549479
+#Mahamadou Sylla
 
 import othello_logic
 
